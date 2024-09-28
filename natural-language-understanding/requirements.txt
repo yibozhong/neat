@@ -1,0 +1,6 @@
+torch
+torchvision
+transformers
+datasets
+evaluate
+tqdm
